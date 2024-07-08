@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-06T17:18:44 IST" name="Default suite" finished-at="2024-07-06T17:22:57 IST" duration-ms="253516">
+    <groups>
+    </groups>
+    <test started-at="2024-07-06T17:18:44 IST" name="Default test" finished-at="2024-07-06T17:22:57 IST" duration-ms="253516">
+      <class name="QAWingify.OTTPlay">
+        <test-method is-config="true" signature="setup()[pri:0, instance:QAWingify.OTTPlay@272113c4]" started-at="2024-07-06T17:18:44 IST" name="setup" finished-at="2024-07-06T17:19:54 IST" duration-ms="69715" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="LoginWithValidCredentials()[pri:1, instance:QAWingify.OTTPlay@272113c4]" started-at="2024-07-06T17:19:54 IST" name="LoginWithValidCredentials" finished-at="2024-07-06T17:20:11 IST" duration-ms="17413" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWithValidCredentials -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:QAWingify.OTTPlay@272113c4]" started-at="2024-07-06T17:20:11 IST" name="setup" finished-at="2024-07-06T17:20:52 IST" duration-ms="40629" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="LoginWithBlankUsername()[pri:2, instance:QAWingify.OTTPlay@272113c4]" started-at="2024-07-06T17:20:52 IST" name="LoginWithBlankUsername" finished-at="2024-07-06T17:21:00 IST" duration-ms="8906" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWithBlankUsername -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:QAWingify.OTTPlay@272113c4]" started-at="2024-07-06T17:21:00 IST" name="setup" finished-at="2024-07-06T17:22:02 IST" duration-ms="61698" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="LoginWithBlankPassowrd()[pri:3, instance:QAWingify.OTTPlay@272113c4]" started-at="2024-07-06T17:22:02 IST" name="LoginWithBlankPassowrd" finished-at="2024-07-06T17:22:11 IST" duration-ms="8522" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWithBlankPassowrd -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:QAWingify.OTTPlay@272113c4]" started-at="2024-07-06T17:22:11 IST" name="setup" finished-at="2024-07-06T17:22:49 IST" duration-ms="37971" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="LoginWithBlankCredentials()[pri:4, instance:QAWingify.OTTPlay@272113c4]" started-at="2024-07-06T17:22:49 IST" name="LoginWithBlankCredentials" finished-at="2024-07-06T17:22:57 IST" duration-ms="8561" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWithBlankCredentials -->
+      </class> <!-- QAWingify.OTTPlay -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
